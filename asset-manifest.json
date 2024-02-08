@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lixi/static/css/main.ba7bbeb0.css",
+    "main.js": "/lixi/static/js/main.c2206296.js",
+    "static/js/592.b2f1ebcb.chunk.js": "/lixi/static/js/592.b2f1ebcb.chunk.js",
+    "static/media/anh.jpg": "/lixi/static/media/anh.71916d93e5e46a1e680b.jpg",
+    "static/media/cho-ngai-ngung.jpg": "/lixi/static/media/cho-ngai-ngung.05da9ca8753e2eef3a1b.jpg",
+    "static/media/cho-nhech-mep.jpg": "/lixi/static/media/cho-nhech-mep.dec06e344ff8fa220311.jpg",
+    "static/media/cho-ban-tym.jpg": "/lixi/static/media/cho-ban-tym.2ddd6707cecb2f416a08.jpg",
+    "static/media/cam-on.jpg": "/lixi/static/media/cam-on.4c010fcc20a41e81fde1.jpg",
+    "index.html": "/lixi/index.html",
+    "main.ba7bbeb0.css.map": "/lixi/static/css/main.ba7bbeb0.css.map",
+    "main.c2206296.js.map": "/lixi/static/js/main.c2206296.js.map",
+    "592.b2f1ebcb.chunk.js.map": "/lixi/static/js/592.b2f1ebcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7bbeb0.css",
+    "static/js/main.c2206296.js"
+  ]
+}
